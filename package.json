@@ -1,0 +1,13 @@
+{
+  "name": "somebody-set-up-us-the-bomb",
+  "version": "1.0.0",
+  "description": "Resources for Allon Mureinik's \"Somebody set up us the bomb\" talk(s)",
+  "keywords": [
+    "dos",
+    "bomb",
+    "denial-of-service",
+    "xml"
+  ],
+  "author": "Allon Mureinik",
+  "license": "ISC"
+}
