@@ -16,8 +16,15 @@ npm install
 ```
 
 ## Execution
+
+### XML example
 ```shell
 node generate-xml-benchmark.js
+```
+
+### YAML example
+```shell
+node generate-yaml-benchmark.js
 ```
 
 This will print out a CSV to stdout which can later be used to generate graphs/reports.

@@ -14,7 +14,8 @@
     "lint": "eslint *.js"
   },
   "dependencies": {
-    "libxmljs2": "^0.29.0"
+    "libxmljs2": "^0.29.0",
+    "yaml": "^1.10.2"
   },
   "devDependencies": {
     "eslint": "^7.32.0",
